@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\imgproc.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\stitching\detail\motion_estimators.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\video\tracking.hpp(532): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\web\documents\visual studio 2015\projects\final_project\cpu\source.cpp(17): warning C4101: 'y': unreferenced local variable
+c:\users\web\documents\visual studio 2015\projects\final_project\cpu\source.cpp(17): warning C4101: 'x': unreferenced local variable
+c:\users\web\documents\visual studio 2015\projects\final_project\cpu\source.cpp(17): warning C4101: 'j': unreferenced local variable
+c:\users\web\documents\visual studio 2015\projects\final_project\cpu\source.cpp(17): warning C4101: 'i': unreferenced local variable
+  CPU.vcxproj -> c:\users\web\documents\visual studio 2015\Projects\Final_Project\x64\Debug\CPU.exe
+  CPU.vcxproj -> c:\users\web\documents\visual studio 2015\Projects\Final_Project\x64\Debug\CPU.pdb (Full PDB)

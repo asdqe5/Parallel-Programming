@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPU", "CPU\CPU.vcxproj", "{3871BBE4-3CA8-491E-8185-4F3DB8FD36D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GPU", "GPU\GPU.vcxproj", "{7FB41B79-4B11-4DF5-9EC7-F5663620C3B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3871BBE4-3CA8-491E-8185-4F3DB8FD36D2}.Debug|x64.ActiveCfg = Debug|x64
+		{3871BBE4-3CA8-491E-8185-4F3DB8FD36D2}.Debug|x64.Build.0 = Debug|x64
+		{3871BBE4-3CA8-491E-8185-4F3DB8FD36D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{3871BBE4-3CA8-491E-8185-4F3DB8FD36D2}.Debug|x86.Build.0 = Debug|Win32
+		{3871BBE4-3CA8-491E-8185-4F3DB8FD36D2}.Release|x64.ActiveCfg = Release|x64
+		{3871BBE4-3CA8-491E-8185-4F3DB8FD36D2}.Release|x64.Build.0 = Release|x64
+		{3871BBE4-3CA8-491E-8185-4F3DB8FD36D2}.Release|x86.ActiveCfg = Release|Win32
+		{3871BBE4-3CA8-491E-8185-4F3DB8FD36D2}.Release|x86.Build.0 = Release|Win32
+		{7FB41B79-4B11-4DF5-9EC7-F5663620C3B9}.Debug|x64.ActiveCfg = Debug|x64
+		{7FB41B79-4B11-4DF5-9EC7-F5663620C3B9}.Debug|x64.Build.0 = Debug|x64
+		{7FB41B79-4B11-4DF5-9EC7-F5663620C3B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{7FB41B79-4B11-4DF5-9EC7-F5663620C3B9}.Debug|x86.Build.0 = Debug|Win32
+		{7FB41B79-4B11-4DF5-9EC7-F5663620C3B9}.Release|x64.ActiveCfg = Release|x64
+		{7FB41B79-4B11-4DF5-9EC7-F5663620C3B9}.Release|x64.Build.0 = Release|x64
+		{7FB41B79-4B11-4DF5-9EC7-F5663620C3B9}.Release|x86.ActiveCfg = Release|Win32
+		{7FB41B79-4B11-4DF5-9EC7-F5663620C3B9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
